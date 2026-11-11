@@ -1,0 +1,15 @@
+# Publish only the explicitly listed static guides and repository notes.
+*
+!.gitignore
+!README.md
+!docs/
+docs/*
+!docs/.nojekyll
+!docs/index.html
+!docs/FPC008_Module_1.1_Learning_Guide.html
+!docs/FPC008_Module_1.2_Learning_Guide.html
+!docs/FPC008_Module_1.3_Learning_Guide.html
+!docs/FPC008_Module_2.1_Learning_Guide.html
+!docs/FPC008_Module_2.2_Learning_Guide.html
+!docs/FPC008_Module_3.1_Learning_Guide.html
+!docs/FPC008_Module_3.2_Learning_Guide.html
